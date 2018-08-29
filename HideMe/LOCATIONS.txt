@@ -1,3 +1,6 @@
+Free Canada (UDP),free-ca.hide.me,udp,4000
+Free Netherlands (UDP),free-nl.hide.me,udp,4000
+Free Singapore (UDP),free-sg.hide.me,udp,4000
 Bucharest (UDP),ro.hide.me,udp,4000
 Frankfurt (UDP),de.hide.me,udp,4000
 Haarlem (UDP),haarlem.hide.me,udp,4000
